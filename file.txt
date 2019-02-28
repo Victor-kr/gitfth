@@ -6,3 +6,4 @@ push : 1
 
 push : 2
 
+git-jira link 1
